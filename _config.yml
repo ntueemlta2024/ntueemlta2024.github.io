@@ -195,33 +195,33 @@ syllabus:
 
   - title: Week 13
     slides:
-      - title: SVM Kernel Method
-        kind: file-pdf-o
-        path: ./slides/week13/W13_L3_svm_kernel.pdf
-      - title: Lagrange Duality
-        kind: file-pdf-o
-        path: ./slides/week13/W13_L4_duality_intro.pdf
-      - title: Duality of SVM
-        kind: file-pdf-o
-        path: ./slides/week13/W13_L5_svm duality.pdf
-      - title: W13-video
-        kind: play-circle
-        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpiM8to7psf9X8l0XSLcc1Wv
+      # - title: SVM Kernel Method
+      #   kind: file-pdf-o
+      #   path: ./slides/week13/W13_L3_svm_kernel.pdf
+      # - title: Lagrange Duality
+      #   kind: file-pdf-o
+      #   path: ./slides/week13/W13_L4_duality_intro.pdf
+      # - title: Duality of SVM
+      #   kind: file-pdf-o
+      #   path: ./slides/week13/W13_L5_svm duality.pdf
+      # - title: W13-video
+      #   kind: play-circle
+      #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpiM8to7psf9X8l0XSLcc1Wv
    
   - title: Week 14
     slides:
-      - title: W14-video
-        kind: play-circle
-        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjFEhzRHtmh8hYLq5_e3_9q
+      # - title: W14-video
+      #   kind: play-circle
+      #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjFEhzRHtmh8hYLq5_e3_9q
       
   - title: Week 15
     slides:
-      - title: PAC
-        kind: file-pdf-o
-        path: ./slides\week15\W14_PAC introduction.pdf
-      - title: W15-video
-        kind: play-circle
-        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpi5XyFIhrwvGUS4ooh7kkZU
+      # - title: PAC
+      #   kind: file-pdf-o
+      #   path: ./slides\week15\W14_PAC introduction.pdf
+      # - title: W15-video
+      #   kind: play-circle
+      #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpi5XyFIhrwvGUS4ooh7kkZU
       
   - title: Week 16 (Final)
 #    slides:
