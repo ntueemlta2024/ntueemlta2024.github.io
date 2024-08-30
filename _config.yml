@@ -29,7 +29,7 @@ programmingTAhour: (TBD)
 # Syllabus
 syllabus:
   - title: Week 01
-    slides:
+    # slides:
       # - title: Syllabus
       #   kind: file-pdf-o
       #   path: ./slides/week1/ML syllabus (112-1).pdf
@@ -52,7 +52,7 @@ syllabus:
       #   path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k8sCKiw5stPtq0lhkV67iW2
 
   - title: Week 02
-    slides:
+    # slides:
       # - title: Bias and Variance
       #   kind: file-pdf-o
       #   path:  ./slides/week2/W2a_Bias_and_Variance.pdf
@@ -71,7 +71,7 @@ syllabus:
 
 
   - title: Week 03
-    slides:
+    # slides:
       # - title: Deep Learning
       #   kind: file-pdf-o
       #   path: ./slides/week3/W3_DL_introduction.pdf
@@ -95,7 +95,7 @@ syllabus:
 
 
   - title: Week 05
-    slides:
+    # slides:
       # - title: CNN
       #   kind: file-pdf-o
       #   path: ./slides/week5/W5_CNN.pdf
@@ -113,7 +113,7 @@ syllabus:
       #   path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
 
   - title: Week 06
-    slides:
+    # slides:
       # - title: Auto Encoder
       #   kind: file-pdf-o
       #   path: #./slides/week6/W6_autoencoder.pdf
@@ -123,7 +123,7 @@ syllabus:
       #   path: #https://www.youtube.com/watch?v=PsHdFO8gEnQ&list=PLIKHU3mMrCpix-HdTZNW1XhvpWCXNdRsJ
    
   - title: Week 07
-    slides:
+    # slides:
       # - title: Neighbor Embedding
       #   kind: file-pdf-o
       #   path: ./slides/week7/W7_TSNE.pdf
@@ -137,7 +137,7 @@ syllabus:
       #   kind: play-circle
       #   path: https://youtube.com/playlist?list=PLIKHU3mMrCpiGPbR7xmZFlqr_GVwKPaZm&feature=shared
   - title: Week 08
-    slides:
+    # slides:
       # - title: RNN
       #   kind: file-pdf-o
       #   path: ./slides/week8/W8_RNN.pdf
@@ -152,7 +152,7 @@ syllabus:
       #   path: https://www.youtube.com/watch?v=yU7QEWTGApA&list=PLIKHU3mMrCpgoFiox4ofPRA1yLyaeurwA
 
   - title: Week 09
-    slides:
+    # slides:
       # - title: GMM and EM 
       #   kind: file-pdf-o
       #   path: ./slides/week9/W9_GMM_EM.pdf
@@ -173,7 +173,7 @@ syllabus:
       #   path: https://www.youtube.com/watch?v=bFgk369TjMI&list=PLLb0Q4dUC0k-tTCiA6IKL8BIkvs7eyuFl
 
   - title: Week 11
-    slides:
+    # slides:
       # - title: VAE
       #   kind: file-pdf-o
       #   path: ./slides/week11/W11_VAE.pdf
@@ -182,7 +182,7 @@ syllabus:
       #   path: https://www.youtube.com/watch?v=4kU6IsrSJI4&list=PLIKHU3mMrCpiuM5qcJVk96IL1HXdX10DG
 
   - title: Week 12
-    slides:
+    # slides:
     #   - title: SVM intro
     #     kind: file-pdf-o
     #     path: ./slides/week12/W12_L1_svm_intro.pdf
@@ -194,7 +194,7 @@ syllabus:
     #    path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k_Z6i-2G0xdmBTveQF_rEyO
 
   - title: Week 13
-    slides:
+    # slides:
       # - title: SVM Kernel Method
       #   kind: file-pdf-o
       #   path: ./slides/week13/W13_L3_svm_kernel.pdf
@@ -209,13 +209,13 @@ syllabus:
       #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpiM8to7psf9X8l0XSLcc1Wv
    
   - title: Week 14
-    slides:
+    # slides:
       # - title: W14-video
       #   kind: play-circle
       #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjFEhzRHtmh8hYLq5_e3_9q
       
   - title: Week 15
-    slides:
+    # slides:
       # - title: PAC
       #   kind: file-pdf-o
       #   path: ./slides\week15\W14_PAC introduction.pdf
@@ -249,7 +249,7 @@ homeworks:
 
 
   - title: HW1 - Regression
-    links:
+    # links:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/playlist?list=PLIKHU3mMrCpit82_uYZNo5ATtpMPmZIDQ
@@ -276,7 +276,7 @@ homeworks:
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-math-solution.pdf
   - title: HW2 - CNN
-    links:
+    # links:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://youtube.com/playlist?list=PLIKHU3mMrCpio6fcvZSrs3BcMQha87bcR&feature=shared
@@ -300,7 +300,7 @@ homeworks:
       #   url: https://ntueemlta2023.github.io/homeworks/hw2/ml-2023fall-hw2-math-solution.pdf
 
   - title: HW3 - Embedding
-    links:
+    # links:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/watch?v=BgKQIdQJKCQ&list=PLIKHU3mMrCpjmJnjiVLfARYBoVUUXmRnw
@@ -324,7 +324,7 @@ homeworks:
       #   url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-math-solution.pdf
 
   - title: HW4 - RNN
-    links:
+    # links:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/playlist?list=PLIKHU3mMrCphcU9icrtaubju6VIoWaULt
@@ -348,7 +348,7 @@ homeworks:
       #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math-solution.pdf
 
   - title: HW5 - SVM
-    links:
+    # links:
       # - title: slide # slide
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-slide.pdf
