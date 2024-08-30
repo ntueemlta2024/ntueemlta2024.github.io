@@ -16,10 +16,10 @@ TAemail: ntueemlta2024@gmail.com
 TAs:
   - name: 謝博揚
     email: r13942050@ntu.edu.tw
-    path: /img/rong.jpg
+    path: ./img/rong.jpg
   - name: 徐樂融
     email: b09102101@ntu.edu.tw
-    path: /img/rong.jpg
+    path: ./img/rong.jpg
 
 TeacherEmail: peiyuanwu@ntu.edu.tw
 
