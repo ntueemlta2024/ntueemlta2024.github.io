@@ -4,7 +4,7 @@
 #    > For slides: don't forget to upload pdf to ./slides/weekx !
 # 3. For more detail, please contact author: R12942094@ntu.edu.tw
 
-# Site settings
+# Site settings #ok
 title: Machine Learning 
 description: "Pei-Yuan Wu, Hung-Yi Lee"
 location: 106 臺北市大安區羅斯福路四段 1 號博理館 530 室
@@ -227,7 +227,7 @@ syllabus:
 #    slides:
 
 # Resources:
-resources:
+resources: #ok
   - title: 2023 spring 機器學習網站 - 李宏毅
     url: https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
 
@@ -371,7 +371,7 @@ homeworks:
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math-solution.pdf
 
-exams:
+exams: #ok
  - title: Exam-107
    links:
      - title: Final-Exam-107 # slide
@@ -406,7 +406,7 @@ exams:
 networks:
   - kind: facebook
     title: Join Discussion
-    url: https://www.facebook.com/groups/854106740116833
+    url: https://www.facebook.com/groups/854106740116833 #ok
 
 
 ################ website theme design ################
