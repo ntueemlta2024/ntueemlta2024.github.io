@@ -10,16 +10,16 @@ description: "Pei-Yuan Wu, Hung-Yi Lee"
 location: 106 臺北市大安區羅斯福路四段 1 號博理館 530 室
 phone: 02-3366-3700 ext.6530
 
-url: https://ntueemlta2024.github.io #!!!!
+url: https://ntueemlta2024.github.io 
 year: "2024 Fall"
 TAemail: ntueemlta2024@gmail.com
 TAs:
   - name: 謝博揚
     email: r13942050@ntu.edu.tw
-    url: https://ntueemlta2023.github.io/img/yuanchia.jpg
+    url: https://ntueemlta2024.github.io/img/rong.jpg
   - name: 徐樂融
     email: b09102101@ntu.edu.tw
-    url: https://ntueemlta2023.github.io/img/junlin.jpg
+    url: https://ntueemlta2024.github.io/img/rong.jpg
 
 TeacherEmail: peiyuanwu@ntu.edu.tw
 
@@ -91,8 +91,7 @@ syllabus:
       #   kind: play-circle
       #   path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
 
-  - title: Week 04(Mid-Autumn Fest.)
-
+  - title: Week 04
 
   - title: Week 05
     # slides:
