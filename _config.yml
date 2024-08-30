@@ -1,0 +1,428 @@
+###### EDIT NOTE ######
+# 1. You can update website by simply updating this config file!
+# 2. Please follow the format to edit. (alignment, variable name, etc.)
+#    > For slides: don't forget to upload pdf to ./slides/weekx !
+# 3. For more detail, please contact author: R12942094@ntu.edu.tw
+
+# Site settings
+title: Machine Learning 
+description: "Pei-Yuan Wu, Hung-Yi Lee"
+location: 106 臺北市大安區羅斯福路四段 1 號博理館 530 室
+phone: 02-3366-3700 ext.6530
+
+url: https://ntueemlta2023.github.io
+year: "2023 Fall"
+TAemail: ntueemlta2023@gmail.com
+TAs:
+  - name: 張原嘉
+    email: r12942094@ntu.edu.tw
+    url: https://ntueemlta2023.github.io/img/yuanchia.jpg
+  - name: 黃俊霖
+    email: r12942151@ntu.edu.tw
+    url: https://ntueemlta2023.github.io/img/junlin.jpg
+  - name: 范傑翔
+    email: b08209023@ntu.edu.tw
+    url: https://ntueemlta2023.github.io/img/rice.jpg
+
+TeacherEmail: peiyuanwu@ntu.edu.tw
+
+Officehour: 星期四 9:30~11:30 電二 234
+mathTAhour: 星期二 15:30~16:20 電二 225
+programmingTAhour: 星期二 10:00~12:00 全變中心（新體旁）206
+# Syllabus
+syllabus:
+  - title: Week 01
+    slides:
+      - title: Syllabus
+        kind: file-pdf-o
+        path: ./slides/week1/ML syllabus (112-1).pdf
+
+      - title: Introduction
+        kind: file-pdf-o
+        path: ./slides/week1/W1_Introduction.pdf
+        
+      
+      - title: Regression
+        kind: file-pdf-o
+        path: ./slides/week1/W1_Regression.pdf
+
+      - title: W1-video(最後 25 分鐘沒聲音)
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpgNlyO9hEwGVxNMJHoeP4IZ
+
+      - title: Regression-video(2022)
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k8sCKiw5stPtq0lhkV67iW2
+
+  - title: Week 02
+    slides:
+      - title: Bias and Variance
+        kind: file-pdf-o
+        path: ./slides/week2/W2a_Bias_and_Variance.pdf
+
+      - title: Classification - Probability Generative Model
+        kind: file-pdf-o
+        path: ./slides/week2/W2b_Classification (v2).pdf
+
+      - title: Logistic Regression
+        kind: file-pdf-o
+        path: ./slides/week2/W2_Logistic Regression (v4).pdf
+
+      - title: W2-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpgd7ED1YW5BJa2n1qR1XdJE
+
+
+  - title: Week 03
+    slides:
+      - title: Deep Learning
+        kind: file-pdf-o
+        path: ./slides/week3/W3_DL_introduction.pdf
+      - title: Gradient Descent
+        kind: file-pdf-o
+        path: ./slides/week3/W3_Gradient Descent.pdf
+      - title: Backpropagation
+        kind: file-pdf-o
+        path: ./slides/week3/W3_BP (v2).pdf  
+      - title: Tips for DL
+        kind: file-pdf-o
+        path: ./slides/week3/W3_DNN tip.pdf
+      - title: Keras
+        kind: file-pdf-o
+        path: ./slides/week3/W3d_Keras.pdf
+      - title: W3-video
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
+
+  - title: Week 04(Mid-Autumn Fest.)
+
+
+  - title: Week 05
+    slides:
+      - title: CNN
+        kind: file-pdf-o
+        path: ./slides/week5/W5_CNN.pdf
+      - title: PCA
+        kind: file-pdf-o
+        path: ./slides/week5/W5_PCA_v2.pdf
+      - title: PCA and SVD
+        kind: file-pdf-o
+        path: ./slides/week5/W5_PCA_SVD.pdf
+      - title: W5-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjJ7ezrzkp_dxk6KrtKxsBe
+      - title: CNN video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
+
+  - title: Week 06
+    slides:
+      - title: Auto Encoder
+        kind: file-pdf-o
+        path: ./slides/week6/W6_autoencoder.pdf
+
+
+      - title: W6-video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=PsHdFO8gEnQ&list=PLIKHU3mMrCpix-HdTZNW1XhvpWCXNdRsJ
+   
+  - title: Week 07
+    slides:
+      - title: Neighbor Embedding
+        kind: file-pdf-o
+        path: ./slides/week7/W7_TSNE.pdf
+      - title: RNN - 1
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=xCGidAeyS4M
+      - title: RNN - 2
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=rTqmWlnwz_0
+      - title: W7-video
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLIKHU3mMrCpiGPbR7xmZFlqr_GVwKPaZm&feature=shared
+  - title: Week 08
+    slides:
+      - title: RNN
+        kind: file-pdf-o
+        path: ./slides/week8/W8_RNN.pdf
+      - title: Ensemble    
+        kind: file-pdf-o
+        path: ./slides/week8/W8_ensemble.pdf
+      - title: AdaBoost
+        kind: Gradient Boosting
+        path: ./slides/week8/W8_adaBoost.pdf
+      - title: W8-video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=yU7QEWTGApA&list=PLIKHU3mMrCpgoFiox4ofPRA1yLyaeurwA
+
+  - title: Week 09
+    slides:
+      - title: GMM and EM 
+        kind: file-pdf-o
+        path: ./slides/week9/W9_GMM_EM.pdf
+      - title: W9-video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=x1mLmYv24II&list=PLIKHU3mMrCpinv0x7uHvwOxonQIX4tEH2
+    
+  - title: Week 10
+    slides:
+      - title: Semi-Supervised Learning
+        kind: file-pdf-o
+        path: ./slides/week10/W10_semi.pdf
+      - title: meeting link
+        kind: file-pdf-o
+        path: link.pdf
+      - title: Semi-supervised Learning video(2022)
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=bFgk369TjMI&list=PLLb0Q4dUC0k-tTCiA6IKL8BIkvs7eyuFl
+
+  - title: Week 11
+    slides:
+      - title: VAE
+        kind: file-pdf-o
+        path: ./slides/week11/W11_VAE.pdf
+      - title: W11-video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=4kU6IsrSJI4&list=PLIKHU3mMrCpiuM5qcJVk96IL1HXdX10DG
+
+  - title: Week 12
+    slides:
+      - title: SVM intro
+        kind: file-pdf-o
+        path: ./slides/week12/W12_L1_svm_intro.pdf
+      - title: SVM Optimization
+        kind: file-pdf-o
+        path: ./slides/week12/W12_L2_svm_optimization.pdf   
+#      - title: W12-video
+#        kind: play-circle
+#        path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k_Z6i-2G0xdmBTveQF_rEyO
+
+  - title: Week 13
+    slides:
+      - title: SVM Kernel Method
+        kind: file-pdf-o
+        path: ./slides/week13/W13_L3_svm_kernel.pdf
+      - title: Lagrange Duality
+        kind: file-pdf-o
+        path: ./slides/week13/W13_L4_duality_intro.pdf
+      - title: Duality of SVM
+        kind: file-pdf-o
+        path: ./slides/week13/W13_L5_svm duality.pdf
+      - title: W13-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpiM8to7psf9X8l0XSLcc1Wv
+   
+  - title: Week 14
+    slides:
+      - title: W14-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjFEhzRHtmh8hYLq5_e3_9q
+      
+  - title: Week 15
+    slides:
+      - title: PAC
+        kind: file-pdf-o
+        path: ./slides\week15\W14_PAC introduction.pdf
+      - title: W15-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpi5XyFIhrwvGUS4ooh7kkZU
+      
+  - title: Week 16 (Final)
+#    slides:
+
+# Resources:
+resources:
+  - title: 2023 spring 機器學習網站 - 李宏毅
+    url: https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+
+  - title: 2022 fall 機器學習網站 - 吳沛遠
+    url: https://ntueemlta2022.github.io/
+
+  - title: 李宏毅教授 Youtube
+    url: https://www.youtube.com/c/HungyiLeeNTU
+
+
+# Homework
+# Please follow the format below to update the content.
+  # - title: string
+  #   links:
+      # - title: string 
+      #   kind: fa fa icon name (Ref: https://fontawesome.com/v4/icons/)
+      #   url: url
+homeworks:
+
+
+  - title: HW1 - Regression
+    links:
+      - title: video # video
+        kind: youtube-play 
+        url: https://www.youtube.com/playlist?list=PLIKHU3mMrCpit82_uYZNo5ATtpMPmZIDQ
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/t/77f7840897974d2684e29a9c0c8afbff
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/1gydf76dnh7cFnmIOWMLM4xhL73vMYRPH?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-math.pdf
+      - title: TA sharing
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/TA_Sharing.pdf
+      - title: Bonus sharing
+        kind: youtube-play 
+        url: https://youtube.com/playlist?list=PLIKHU3mMrCpiHAV7VKuQRgJRMkygmkou1&feature=shared
+
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-math-solution.pdf
+  - title: HW2 - CNN
+    links:
+      - title: video # video
+        kind: youtube-play 
+        url: https://youtube.com/playlist?list=PLIKHU3mMrCpio6fcvZSrs3BcMQha87bcR&feature=shared
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw2/ml-2023fall-hw2-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml2023-fall-hw2
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/1Lxs8RkBkWwlPHqjw20K7urG90bjnyDiv?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw2/ml-2023fall-hw2-math.pdf
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/17-_3_qAvuQMhCGIKns_apA8IOlktasso/edit?usp=sharing&ouid=112465961449455869485&rtpof=true&sd=true
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw2/ml-2023fall-hw2-math-solution.pdf
+
+  - title: HW3 - Embedding
+    links:
+      - title: video # video
+        kind: youtube-play 
+        url: https://www.youtube.com/watch?v=BgKQIdQJKCQ&list=PLIKHU3mMrCpjmJnjiVLfARYBoVUUXmRnw
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml2023-fall-hw3
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/1_YkFH7Ajkd6zlee3feHcmOnwW0f98yDx?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-math.pdf
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/1n4RGIxXpLrTakT1TkypLvLs1dpuBJkaq/edit?usp=sharing&ouid=112465961449455869485&rtpof=true&sd=true
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-math-solution.pdf
+
+  - title: HW4 - RNN
+    links:
+      - title: video # video
+        kind: youtube-play 
+        url: https://www.youtube.com/playlist?list=PLIKHU3mMrCphcU9icrtaubju6VIoWaULt
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml-2023-fall-hw3
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/16PvhbI67Ork5c16C0XIuRJaks9ru3-N0?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math.pdf
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/1cO0q5AA_QTyIokC_eOdJJCrqfZeGkDLo94AuoiSoStU/edit?usp=sharing
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math-solution.pdf
+
+  - title: HW5 - SVM
+    links:
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml2023-fall-hw5
+      - title: colab-SVM # colab
+        kind: cloud 
+        url: https://drive.google.com/file/d/1j4OJxz5xrvhR6cj3IUqCP-EPZ9u3L_cR/view?usp=sharing
+      - title: colab-hand-craft # colab
+        kind: cloud 
+        url: https://drive.google.com/file/d/1Sxm-HP371DWjDnFOIcVzoXvDDxBG7gBj/view?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math.pdf
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/1z0visPuuFZRrBGMvJvm59v9BLOTWmY3QjlU-cLqjl0M/edit?usp=sharing
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math-solution.pdf
+
+exams:
+ - title: Exam-107
+   links:
+     - title: Final-Exam-107 # slide
+       kind: file-pdf-o 
+       path: ./exams/ML_107_final_ques.pdf
+
+ - title: Exam-108
+   links:
+     - title: Final-Exam-108 # slide
+       kind: file-pdf-o 
+       path: ./exams/ML_108_final_ques.pdf
+
+ - title: Exam-109
+   links:
+     - title: Final-Exam-109 # slide
+       kind: file-pdf-o 
+       path: ./exams/ML_109_final_ques.pdf
+
+ - title: Exam-110
+   links:
+     - title: Final-Exam-110 # slide
+       kind: file-pdf-o 
+       path: ./exams/ML_110_final_ques.pdf
+
+ - title: Exam-111
+   links:
+     - title: Final-Exam-111 # slide
+       kind: file-pdf-o 
+       path: ./exams/ML_111_final_ques.pdf
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+networks:
+  - kind: facebook
+    title: Join Discussion
+    url: https://www.facebook.com/groups/1032602664677990
+
+
+################ website theme design ################
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  light: '#ECF8FA'
+  links: '#219ab3' # color for button
+  special-links: '#FFCC00'
+
+# Footer settings
+footer: https://ntueemlta2023.github.io
+
+# Build settings
+markdown: kramdown
+permalink: pretty
