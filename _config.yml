@@ -29,10 +29,10 @@ programmingTAhour: (TBD)
 # Syllabus
 syllabus:
   - title: Week 01
-    # slides:
-      # - title: Syllabus
-      #   kind: file-pdf-o
-      #   path: ./slides/week1/ML syllabus (112-1).pdf
+    slides:
+      - title: Syllabus
+        kind: file-pdf-o
+        path: ./slides/week1/ML syllabus (113-1).pdf
 
       # - title: Introduction
       #   kind: file-pdf-o
