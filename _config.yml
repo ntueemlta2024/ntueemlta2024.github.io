@@ -42,9 +42,9 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/week1/W1_Regression.pdf
 
-      # - title: W1-video
-      #   kind: play-circle
-      #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpgNlyO9hEwGVxNMJHoeP4IZ
+      - title: W1-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-xER9ZrQRZrFUdOpZkoOps7
 
       # - title: Regression-video
       #   kind: play-circle
