@@ -27,8 +27,8 @@ TAs:
 TeacherEmail: peiyuanwu@ntu.edu.tw
 
 Officehour: (TBD)
-mathTAhour: (TBD)
-programmingTAhour: (TBD)
+mathTAhour: 星期三 15:30-17:20 at 電二147B
+programmingTAhour: 星期三 15:30-17:20 at 電二147B
 # Syllabus
 syllabus:
   - title: Week 01
@@ -53,19 +53,19 @@ syllabus:
       #   kind: play-circle
       #   path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k8sCKiw5stPtq0lhkV67iW2
 
-  # - title: Week 02
-    # slides:
-      # - title: Bias and Variance
-      #   kind: file-pdf-o
-      #   path:  ./slides/week2/W2a_Bias_and_Variance.pdf
+  - title: Week 02
+    slides:
+      - title: Bias and Variance
+        kind: file-pdf-o
+        path:  ./slides/week2/W2a_Bias_and_Variance.pdf
 
-      # - title: Classification - Probability Generative Model
-      #   kind: file-pdf-o
-      #   path:  ./slides/week2/W2b_Classification (v2).pdf
+      - title: Classification - Probability Generative Model
+        kind: file-pdf-o
+        path:  ./slides/week2/W2b_Classification (v2).pdf
 
-      # - title: Logistic Regression
-      #   kind: file-pdf-o
-      #   path:  ./slides/week2/W2_Logistic Regression (v4).pdf
+      - title: Logistic Regression
+        kind: file-pdf-o
+        path:  ./slides/week2/W2_Logistic Regression (v4).pdf
 
       # - title: W2-video
       #   kind: play-circle
@@ -254,18 +254,18 @@ homeworks:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/playlist?list=PLIKHU3mMrCpit82_uYZNo5ATtpMPmZIDQ
-      # - title: slide # slide
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-slide.pdf
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2024fall-hw1-slide.pdf
       # - title: kaggle # kaggle
       #   kind: trophy  
       #   url: https://www.kaggle.com/t/77f7840897974d2684e29a9c0c8afbff
-      # - title: colab # colab
-      #   kind: cloud 
-      #   url: https://colab.research.google.com/drive/1gydf76dnh7cFnmIOWMLM4xhL73vMYRPH?usp=sharing
-      # - title: math
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-math.pdf
+      - title: colab # colab
+        kind: cloud 
+        url: https://drive.google.com/file/d/1v8PXQ86cXxe6svP8ERTfeStV8VXOKxc2/view?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2024fall-hw1-math.pdf
       # - title: TA sharing
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw1/TA_Sharing.pdf
