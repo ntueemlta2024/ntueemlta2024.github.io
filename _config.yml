@@ -257,9 +257,9 @@ homeworks:
       - title: slide # slide
         kind: file-pdf-o 
         url: https://ntueemlta2024.github.io/homeworks/hw1/ml-2024fall-hw1-slide.pdf
-      # - title: kaggle # kaggle
-      #   kind: trophy  
-      #   url: https://www.kaggle.com/t/77f7840897974d2684e29a9c0c8afbff
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml2024-fall-hw1
       - title: colab # colab
         kind: cloud 
         url: https://colab.research.google.com/drive/1gwJd9ZxtTw13b0dvGxBVVzsM3rruTK5Z?usp=sharing
