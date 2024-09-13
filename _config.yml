@@ -67,9 +67,9 @@ syllabus:
         kind: file-pdf-o
         path:  ./slides/week2/W2_Logistic Regression (v4).pdf
 
-      # - title: W2-video
-      #   kind: play-circle
-      #   path:  https://www.youtube.com/playlist?list=PLIKHU3mMrCpgd7ED1YW5BJa2n1qR1XdJE
+      - title: W2-video (last year)
+        kind: play-circle
+        path:  https://www.youtube.com/playlist?list=PLIKHU3mMrCpgd7ED1YW5BJa2n1qR1XdJE
 
 
   # - title: Week 03
