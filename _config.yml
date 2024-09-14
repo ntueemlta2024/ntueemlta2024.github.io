@@ -71,6 +71,9 @@ syllabus:
         kind: play-circle
         path:  https://www.youtube.com/playlist?list=PLIKHU3mMrCpgd7ED1YW5BJa2n1qR1XdJE
 
+      - title: W2-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-xEtOEDOXqh1NCvqQUJGmh5
 
   # - title: Week 03
     # slides:
@@ -253,7 +256,7 @@ homeworks:
     links:
       # - title: video # video
       #   kind: youtube-play 
-      #   url: https://www.youtube.com/playlist?list=PLIKHU3mMrCpit82_uYZNo5ATtpMPmZIDQ
+      #   url: https://www.youtube.com/playlist?list=PLREY_JttMD-xEtOEDOXqh1NCvqQUJGmh5
       - title: slide # slide
         kind: file-pdf-o 
         url: https://ntueemlta2024.github.io/homeworks/hw1/ml-2024fall-hw1-slide.pdf
