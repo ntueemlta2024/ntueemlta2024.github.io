@@ -92,6 +92,9 @@ syllabus:
       # - title: Keras
       #   kind: file-pdf-o
       #   path: ./slides/week3/W3d_Keras.pdf
+      - title: W3-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-ysgwAO0JalcAeB_vH2ub02
       - title: Deep learning videos (last year)
         kind: play-circle
         path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
