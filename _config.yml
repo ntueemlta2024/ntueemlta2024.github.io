@@ -86,15 +86,15 @@ syllabus:
       - title: Backpropagation
         kind: file-pdf-o
         path: ./slides/week3/W3_BP (v2).pdf  
-      - title: Tips for DL
-        kind: file-pdf-o
-        path: ./slides/week3/W3_DNN tip.pdf
+      # - title: Tips for DL
+      #   kind: file-pdf-o
+      #   path: ./slides/week3/W3_DNN tip.pdf
       # - title: Keras
       #   kind: file-pdf-o
       #   path: ./slides/week3/W3d_Keras.pdf
-      # - title: W3-video
-      #   kind: play-circle
-      #   path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
+      - title: Deep learning videos (last year)
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
 
   # - title: Week 04
 
