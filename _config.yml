@@ -86,9 +86,9 @@ syllabus:
       - title: Backpropagation
         kind: file-pdf-o
         path: ./slides/week3/W3_BP (v2).pdf  
-      # - title: Tips for DL
-      #   kind: file-pdf-o
-      #   path: ./slides/week3/W3_DNN tip.pdf
+      - title: Tips for DL
+        kind: file-pdf-o
+        path: ./slides/week3/W3_DNN tip.pdf
       # - title: Keras
       #   kind: file-pdf-o
       #   path: ./slides/week3/W3d_Keras.pdf
@@ -104,6 +104,7 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/week8/W8_ensemble.pdf
       - title: AdaBoost
+        kind: file-pdf-o
         kind: Gradient Boosting
         path: ./slides/week8/W8_adaBoost.pdf
 
