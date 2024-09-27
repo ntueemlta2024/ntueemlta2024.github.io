@@ -102,11 +102,11 @@ syllabus:
   - title: Week 04
       - title: Ensemble    
         kind: file-pdf-o
-        path: ./slides/week8/W8_ensemble.pdf
+        path: ./slides/week4/W8_ensemble.pdf
       - title: AdaBoost
         kind: file-pdf-o
         kind: Gradient Boosting
-        path: ./slides/week8/W8_adaBoost.pdf
+        path: ./slides/week4/W8_adaBoost.pdf
 
   # - title: Week 05
     # slides:
