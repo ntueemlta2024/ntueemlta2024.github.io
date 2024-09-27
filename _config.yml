@@ -103,11 +103,14 @@ syllabus:
     slides:
       - title: Ensemble    
         kind: file-pdf-o
-        path: ./slides/week4/W8_ensemble.pdf
+        path: ./slides/week4/W4_ensemble.pdf
       - title: AdaBoost
         kind: file-pdf-o
         kind: Gradient Boosting
-        path: ./slides/week4/W8_adaBoost.pdf
+        path: ./slides/week4/W4_adaBoost.pdf
+      - title: Auto Encoder
+        kind: file-pdf-o
+        path: ./slides/week4/W4_autoencoder.pdf
 
   # - title: Week 05
     # slides:
