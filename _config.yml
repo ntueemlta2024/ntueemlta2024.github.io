@@ -99,7 +99,13 @@ syllabus:
         kind: play-circle
         path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
 
-  # - title: Week 04
+  - title: Week 04
+      - title: Ensemble    
+        kind: file-pdf-o
+        path: ./slides/week8/W8_ensemble.pdf
+      - title: AdaBoost
+        kind: Gradient Boosting
+        path: ./slides/week8/W8_adaBoost.pdf
 
   # - title: Week 05
     # slides:
