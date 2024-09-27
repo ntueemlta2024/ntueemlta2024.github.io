@@ -100,6 +100,7 @@ syllabus:
         path: https://youtube.com/playlist?list=PLIKHU3mMrCpjS4HeIvNV9W6EbuDhQz3M3&si=PxEmHWj_ix-tmmzh
 
   - title: Week 04
+    slides:
       - title: Ensemble    
         kind: file-pdf-o
         path: ./slides/week4/W8_ensemble.pdf
