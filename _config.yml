@@ -114,6 +114,9 @@ syllabus:
       - title: W4-video
         kind: play-circle
         path: https://www.youtube.com/playlist?list=PLREY_JttMD-w0cD-OZU6z_FF7yclmlg_S
+      - title: Ensemble and Boosting (last year)
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpgoFiox4ofPRA1yLyaeurwA
 
   # - title: Week 05
     # slides:
