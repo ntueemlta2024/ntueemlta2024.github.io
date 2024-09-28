@@ -111,6 +111,9 @@ syllabus:
       - title: Auto Encoder
         kind: file-pdf-o
         path: ./slides/week4/W4_autoencoder.pdf
+      - title: Wˋ-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-w0cD-OZU6z_FF7yclmlg_S
 
   # - title: Week 05
     # slides:
