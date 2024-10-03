@@ -310,9 +310,9 @@ homeworks:
       - title: kaggle # kaggle
         kind: trophy  
         url: https://www.kaggle.com/competitions/ml-2024-fall-hw2/overview
-      # - title: colab # colab
-      #   kind: cloud 
-      #   url: https://colab.research.google.com/drive/1Lxs8RkBkWwlPHqjw20K7urG90bjnyDiv?usp=sharing
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/10tIj9jY10ZHxfyoqlGdgdtZL_QDWkc1O?usp=sharing
       - title: math
         kind: file-pdf-o 
         url: https://ntueemlta2024.github.io/homeworks/hw2/ml-2024fall-hw2-math.pdf
