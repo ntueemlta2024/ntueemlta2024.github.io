@@ -135,9 +135,9 @@ syllabus:
       # - title: W5-video
       #   kind: play-circle
       #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjJ7ezrzkp_dxk6KrtKxsBe
-      # - title: CNN video
-      #   kind: play-circle
-      #   path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
+      - title: CNN video
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
 
   # - title: Week 06
     # slides:
