@@ -132,9 +132,9 @@ syllabus:
       - title: PCA and SVD
         kind: file-pdf-o
         path: ./slides/week5/W5_TSNE.pdf
-      # - title: W5-video
-      #   kind: play-circle
-      #   path: https://www.youtube.com/playlist?list=PLIKHU3mMrCpjJ7ezrzkp_dxk6KrtKxsBe
+      - title: W5-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-zfNadQuWvzkakne1fm_7g2
       - title: CNN video
         kind: play-circle
         path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
