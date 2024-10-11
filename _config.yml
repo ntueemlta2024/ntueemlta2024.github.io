@@ -141,7 +141,7 @@ syllabus:
 
   - title: Week 06
     slides:
-      - title: EM and GMM
+      - title: GMM and EM
         kind: file-pdf-o
         path: ./slides/week6/W6_GMM_EM.pdf
 
