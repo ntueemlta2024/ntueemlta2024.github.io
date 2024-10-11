@@ -139,11 +139,11 @@ syllabus:
         kind: play-circle
         path: https://www.youtube.com/watch?v=OP5HcXJg2Aw&list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J&index=9
 
-  # - title: Week 06
-    # slides:
-      # - title: Auto Encoder
-      #   kind: file-pdf-o
-      #   path: #./slides/week6/W6_autoencoder.pdf
+  - title: Week 06
+    slides:
+      - title: Auto Encoder
+        kind: file-pdf-o
+        path: ./slides/week6/W6_GMM_EM.pdf
 
       # - title: W6-video
       #   kind: play-circle
