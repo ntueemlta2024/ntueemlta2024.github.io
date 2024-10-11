@@ -141,7 +141,7 @@ syllabus:
 
   - title: Week 06
     slides:
-      - title: Auto Encoder
+      - title: Expectation Maximization and Gaussian Mixture Models
         kind: file-pdf-o
         path: ./slides/week6/W6_GMM_EM.pdf
 
