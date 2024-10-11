@@ -145,9 +145,9 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/week6/W6_GMM_EM.pdf
 
-      # - title: W6-video
-      #   kind: play-circle
-      #   path: #https://www.youtube.com/watch?v=PsHdFO8gEnQ&list=PLIKHU3mMrCpix-HdTZNW1XhvpWCXNdRsJ
+      - title: W6-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-zLDoPSBzaJZYVYubO9Hf1M
    
   # - title: Week 07
     # slides:
