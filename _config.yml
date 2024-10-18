@@ -154,9 +154,9 @@ syllabus:
       - title: Neighbor Embedding
         kind: file-pdf-o
         path: ./slides/week7/W7_TSNE.pdf
-      # - title: RNN - 1
-      #   kind: play-circle
-      #   path: https://www.youtube.com/watch?v=xCGidAeyS4M
+      - title: semi-supervised (2022)
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k-tTCiA6IKL8BIkvs7eyuFl
       # - title: RNN - 2
       #   kind: play-circle
       #   path: https://www.youtube.com/watch?v=rTqmWlnwz_0
