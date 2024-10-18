@@ -334,12 +334,12 @@ homeworks:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/watch?v=BgKQIdQJKCQ&list=PLIKHU3mMrCpjmJnjiVLfARYBoVUUXmRnw
-      - title: slide # slide
-        kind: file-pdf-o 
-        url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-slide.pdf
-      # - title: kaggle # kaggle
-      #   kind: trophy  
-      #   url: https://www.kaggle.com/competitions/ml2023-fall-hw3
+      # - title: slide # slide
+      #   kind: file-pdf-o 
+      #   url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-slide.pdf
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml2024-fall-hw3
       - title: colab # colab
         kind: cloud 
         url: https://colab.research.google.com/drive/1xhemgjng3bXakcaStllomPwR4ZAyeQoj?usp=sharing
