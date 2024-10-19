@@ -160,9 +160,9 @@ syllabus:
       # - title: RNN - 2
       #   kind: play-circle
       #   path: https://www.youtube.com/watch?v=rTqmWlnwz_0
-      # - title: W7-video
-      #   kind: play-circle
-      #   path: https://youtube.com/playlist?list=PLIKHU3mMrCpiGPbR7xmZFlqr_GVwKPaZm&feature=shared
+      - title: W7-video
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLREY_JttMD-w6jNtcgDIG8CapeoZZ_0NP&si=B88A8YH1hayaTm2k
   # - title: Week 08
     # slides:
       # - title: RNN
