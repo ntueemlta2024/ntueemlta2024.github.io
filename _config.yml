@@ -177,6 +177,12 @@ syllabus:
       - title: RNN
         kind: file-pdf-o
         path: ./slides/week8/W8_RNN.pdf
+      - title: RNN - 1
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=xCGidAeyS4M
+      - title: RNN - 2
+        kind: play-circle
+        path: https://www.youtube.com/watch?v=rTqmWlnwz_0
       # - title: Ensemble    
       #   kind: file-pdf-o
       #   path: ./slides/week8/W8_ensemble.pdf
