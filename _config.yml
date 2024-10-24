@@ -151,9 +151,9 @@ syllabus:
       - title: VAE
         kind: file-pdf-o
         path: ./slides/week7/W7_VAE.pdf
-      - title: Neighbor Embedding
-        kind: file-pdf-o
-        path: ./slides/week7/W7_TSNE.pdf
+      # - title: Neighbor Embedding
+      #   kind: file-pdf-o
+      #   path: ./slides/week7/W7_TSNE.pdf
       - title: semi-supervised (2022)
         kind: play-circle
         path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k-tTCiA6IKL8BIkvs7eyuFl
@@ -163,11 +163,20 @@ syllabus:
       - title: W7-video
         kind: play-circle
         path: https://youtube.com/playlist?list=PLREY_JttMD-w6jNtcgDIG8CapeoZZ_0NP&si=B88A8YH1hayaTm2k
-  # - title: Week 08
-    # slides:
-      # - title: RNN
-      #   kind: file-pdf-o
-      #   path: ./slides/week8/W8_RNN.pdf
+  - title: Week 08
+    slides:
+      - title: Neighbor Embedding
+        kind: file-pdf-o
+        path: ./slides/week7/W8_TSNE.pdf
+      - title: SVM intro
+        kind: file-pdf-o
+        path: ./slides/week8/W8_L1_svm_intro.pdf
+      - title: SVM Optimization
+        kind: file-pdf-o
+        path: ./slides/week8/W8_L2_svm_optimization.pdf 
+      - title: RNN
+        kind: file-pdf-o
+        path: ./slides/week8/W8_RNN.pdf
       # - title: Ensemble    
       #   kind: file-pdf-o
       #   path: ./slides/week8/W8_ensemble.pdf
