@@ -167,7 +167,7 @@ syllabus:
     slides:
       - title: Neighbor Embedding
         kind: file-pdf-o
-        path: ./slides/week7/W8_TSNE.pdf
+        path: ./slides/week8/W8_TSNE.pdf
       - title: SVM intro
         kind: file-pdf-o
         path: ./slides/week8/W8_L1_svm_intro.pdf
