@@ -201,13 +201,13 @@ syllabus:
       - title: Optimization
         kind: file-pdf-o
         path: ./slides/svm/svm_L2_svm_optimization.pdf
-      - title: Optimization
+      - title: Kernel
         kind: file-pdf-o
         path: ./slides/svm/svm_L3_svm_kernel.pdf
-      - title: Optimization
+      - title: Duality intro
         kind: file-pdf-o
         path: ./slides/svm/svm_L4_duality_intro.pdf
-      - title: Optimization
+      - title: Duality
         kind: file-pdf-o
         path: ./slides/svm/svm_L5_svm duality.pdf
 
