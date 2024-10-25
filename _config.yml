@@ -168,12 +168,12 @@ syllabus:
       - title: Neighbor Embedding
         kind: file-pdf-o
         path: ./slides/week8/W8_TSNE.pdf
-      - title: SVM intro
-        kind: file-pdf-o
-        path: ./slides/week8/W8_L1_svm_intro.pdf
-      - title: SVM Optimization
-        kind: file-pdf-o
-        path: ./slides/week8/W8_L2_svm_optimization.pdf 
+      # - title: SVM intro
+      #   kind: file-pdf-o
+      #   path: ./slides/week8/W8_L1_svm_intro.pdf
+      # - title: SVM Optimization
+      #   kind: file-pdf-o
+      #   path: ./slides/week8/W8_L2_svm_optimization.pdf 
       - title: RNN
         kind: file-pdf-o
         path: ./slides/week8/W8_RNN.pdf
@@ -192,6 +192,24 @@ syllabus:
       # - title: W8-video
       #   kind: play-circle
       #   path: https://www.youtube.com/watch?v=yU7QEWTGApA&list=PLIKHU3mMrCpgoFiox4ofPRA1yLyaeurwA
+
+  - title: Support Vector Machine
+    slides: 
+      - title: Intro
+        kind: file-pdf-o
+        path: ./slides/svm/svm_L1_svm_intro.pdf
+      - title: Optimization
+        kind: file-pdf-o
+        path: ./slides/svm/svm_L2_svm_optimization.pdf
+      - title: Optimization
+        kind: file-pdf-o
+        path: ./slides/svm/svm_L3_svm_kernel.pdf
+      - title: Optimization
+        kind: file-pdf-o
+        path: ./slides/svm/svm_L4_duality_intro.pdf
+      - title: Optimization
+        kind: file-pdf-o
+        path: ./slides/svm/svm_L5_svm duality.pdf
 
   # - title: Week 09
     # slides:
