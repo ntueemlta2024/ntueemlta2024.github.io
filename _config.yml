@@ -189,9 +189,9 @@ syllabus:
       # - title: AdaBoost
       #   kind: Gradient Boosting
       #   path: ./slides/week8/W8_adaBoost.pdf
-      # - title: W8-video
-      #   kind: play-circle
-      #   path: https://www.youtube.com/watch?v=yU7QEWTGApA&list=PLIKHU3mMrCpgoFiox4ofPRA1yLyaeurwA
+      - title: W8-video
+        kind: play-circle
+        path: https://www.youtube.com/playlist?list=PLREY_JttMD-xS52vuRtoL7T-5596ETzip
 
   - title: Support Vector Machine
     slides: 
