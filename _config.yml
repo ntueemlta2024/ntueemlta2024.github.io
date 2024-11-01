@@ -211,14 +211,11 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/svm/svm_L5_svm duality.pdf
 
-  # - title: Week 09
-    # slides:
-      # - title: GMM and EM 
-      #   kind: file-pdf-o
-      #   path: ./slides/week9/W9_GMM_EM.pdf
-      # - title: W9-video
-      #   kind: play-circle
-      #   path: https://www.youtube.com/watch?v=x1mLmYv24II&list=PLIKHU3mMrCpinv0x7uHvwOxonQIX4tEH2
+  - title: Week 09
+    slides:
+      - title: W9-video
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLREY_JttMD-xLQqPNs7veJ0kp58CRESU5&si=KUOjJd9h3P5DnXJO
     
   # - title: Week 10
     # slides:
