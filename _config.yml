@@ -193,6 +193,12 @@ syllabus:
         kind: play-circle
         path: https://www.youtube.com/playlist?list=PLREY_JttMD-xS52vuRtoL7T-5596ETzip
 
+  - title: Week 09
+    slides:
+      - title: W9-video
+        kind: play-circle
+        path: https://youtube.com/playlist?list=PLREY_JttMD-xLQqPNs7veJ0kp58CRESU5&si=KUOjJd9h3P5DnXJO
+  
   - title: Support Vector Machine
     slides: 
       - title: Intro
@@ -211,12 +217,6 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/svm/svm_L5_svm duality.pdf
 
-  - title: Week 09
-    slides:
-      - title: W9-video
-        kind: play-circle
-        path: https://youtube.com/playlist?list=PLREY_JttMD-xLQqPNs7veJ0kp58CRESU5&si=KUOjJd9h3P5DnXJO
-    
   # - title: Week 10
     # slides:
       # - title: Semi-Supervised Learning
