@@ -380,23 +380,23 @@ homeworks:
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw3/ml-2023fall-hw3-math-solution.pdf
 
-  # - title: HW4 - RNN
-    # links:
+  - title: HW4
+    links:
       # - title: video # video
       #   kind: youtube-play 
       #   url: https://www.youtube.com/playlist?list=PLIKHU3mMrCphcU9icrtaubju6VIoWaULt
-      # - title: slide # slide
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-slide.pdf
+      - title: slide # slide
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw4/ml-2024fall-hw4-slide.pdf
       # - title: kaggle # kaggle
       #   kind: trophy  
       #   url: https://www.kaggle.com/competitions/ml-2023-fall-hw3
       # - title: colab # colab
       #   kind: cloud 
       #   url: https://colab.research.google.com/drive/16PvhbI67Ork5c16C0XIuRJaks9ru3-N0?usp=sharing
-      # - title: math
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math.pdf
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw4/ml-2024fall-hw4-math.pdf
       # - title: programming Report Template
       #   kind: file-pdf-o 
       #   url: https://docs.google.com/document/d/1cO0q5AA_QTyIokC_eOdJJCrqfZeGkDLo94AuoiSoStU/edit?usp=sharing
