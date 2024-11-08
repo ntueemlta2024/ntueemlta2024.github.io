@@ -388,18 +388,18 @@ homeworks:
       - title: slide # slide
         kind: file-pdf-o 
         url: https://ntueemlta2024.github.io/homeworks/hw4/ml-2024fall-hw4-slide.pdf
-      # - title: kaggle # kaggle
-      #   kind: trophy  
-      #   url: https://www.kaggle.com/competitions/ml-2023-fall-hw3
-      # - title: colab # colab
-      #   kind: cloud 
-      #   url: https://colab.research.google.com/drive/16PvhbI67Ork5c16C0XIuRJaks9ru3-N0?usp=sharing
+      - title: kaggle # kaggle
+        kind: trophy  
+        url: https://www.kaggle.com/competitions/ml-2024-fall-hw-4/overview
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/1TcKNX-BhHkSLOKBZNoj464IHtG5VSyOe?usp=sharing
       - title: math
         kind: file-pdf-o 
         url: https://ntueemlta2024.github.io/homeworks/hw4/ml-2024fall-hw4-math.pdf
-      # - title: programming Report Template
-      #   kind: file-pdf-o 
-      #   url: https://docs.google.com/document/d/1cO0q5AA_QTyIokC_eOdJJCrqfZeGkDLo94AuoiSoStU/edit?usp=sharing
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/1d5dH2-zZiRlMQkzptXeIpUFQp-yBqq2K/edit?usp=sharing&ouid=114151137392970660623&rtpof=true&sd=true
       # - title: math-solution
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math-solution.pdf
