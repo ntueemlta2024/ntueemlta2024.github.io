@@ -329,9 +329,9 @@ homeworks:
       #   kind: youtube-play 
       #   url: https://youtube.com/playlist?list=PLIKHU3mMrCpiHAV7VKuQRgJRMkygmkou1&feature=shared
 
-      # - title: math-solution
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw1/ml-2023fall-hw1-math-solution.pdf
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw1/ml-2024fall-hw1-math-solution.pdf
   - title: HW2 - CNN
     links:
       # - title: video # video
@@ -352,9 +352,9 @@ homeworks:
       - title: programming Report Template
         kind: file-pdf-o 
         url: https://docs.google.com/document/d/1aemcSk_NYGTBmhw1oXPiypV5aE7xbzUP/edit
-      # - title: math-solution
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw2/ml-2023fall-hw2-math-solution.pdf
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw2/ml-2024fall-hw2-math-solution.pdf
 
   - title: HW3 - Embedding
     links:
