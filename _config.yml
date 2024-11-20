@@ -217,6 +217,15 @@ syllabus:
         kind: file-pdf-o
         path: ./slides/svm/svm_L5_svm duality.pdf
 
+  - title: Reinforcement Learning
+    slides: 
+      - title: RL notes
+        kind: file-pdf-o
+        path: /slides/rl/RL_notes.pdf
+      - title: Regret bound
+        kind: file-pdf-o
+        path: /slides/rl/regret_bound.pdf
+
   # - title: Week 10
     # slides:
       # - title: Semi-Supervised Learning
@@ -239,16 +248,16 @@ syllabus:
       #   path: https://www.youtube.com/watch?v=4kU6IsrSJI4&list=PLIKHU3mMrCpiuM5qcJVk96IL1HXdX10DG
 
   # - title: Week 12
-    # slides:
-    #   - title: SVM intro
-    #     kind: file-pdf-o
-    #     path: ./slides/week12/W12_L1_svm_intro.pdf
-    #   - title: SVM Optimization
-    #     kind: file-pdf-o
-    #     path: ./slides/week12/W12_L2_svm_optimization.pdf   
-    #  - title: W12-video
-    #    kind: play-circle
-    #    path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k_Z6i-2G0xdmBTveQF_rEyO
+  #   slides:
+  #     - title: SVM intro
+  #       kind: file-pdf-o
+  #       path: ./slides/week12/W12_L1_svm_intro.pdf
+  #     - title: SVM Optimization
+  #       kind: file-pdf-o
+  #       path: ./slides/week12/W12_L2_svm_optimization.pdf   
+  #    - title: W12-video
+  #      kind: play-circle
+  #      path: https://www.youtube.com/playlist?list=PLLb0Q4dUC0k_Z6i-2G0xdmBTveQF_rEyO
 
   # - title: Week 13
     # slides:
