@@ -413,26 +413,29 @@ homeworks:
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math-solution.pdf
 
-  # - title: HW5 - SVM
-    # links:
+  - title: HW5 - RL
+    links:
       # - title: slide # slide
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-slide.pdf
+      - title: slide
+        kind: cloud
+        url: https://docs.google.com/presentation/d/12_6NzxFjnynvnWzjyHmemFHTeFdt7uL2/edit?usp=sharing&ouid=114151137392970660623&rtpof=true&sd=true
       # - title: kaggle # kaggle
       #   kind: trophy  
       #   url: https://www.kaggle.com/competitions/ml2023-fall-hw5
-      # - title: colab-SVM # colab
-      #   kind: cloud 
-      #   url: https://drive.google.com/file/d/1j4OJxz5xrvhR6cj3IUqCP-EPZ9u3L_cR/view?usp=sharing
+      - title: colab # colab
+        kind: cloud 
+        url: https://colab.research.google.com/drive/1-XY5iBeims1kkBrxqqnGbY7yMwIaU5XC?usp=sharing
       # - title: colab-hand-craft # colab
       #   kind: cloud 
       #   url: https://drive.google.com/file/d/1Sxm-HP371DWjDnFOIcVzoXvDDxBG7gBj/view?usp=sharing
-      # - title: math
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math.pdf
-      # - title: programming Report Template
-      #   kind: file-pdf-o 
-      #   url: https://docs.google.com/document/d/1z0visPuuFZRrBGMvJvm59v9BLOTWmY3QjlU-cLqjl0M/edit?usp=sharing
+      - title: math
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw5/ml-2024fall-hw5-math.pdf
+      - title: programming Report Template
+        kind: file-pdf-o 
+        url: https://docs.google.com/document/d/1JSm5zwwdQ-ZIH9mOGqHd4ZnO8LeiH1Kp/edit?usp=sharing&ouid=114151137392970660623&rtpof=true&sd=true
       # - title: math-solution
       #   kind: file-pdf-o 
       #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math-solution.pdf
