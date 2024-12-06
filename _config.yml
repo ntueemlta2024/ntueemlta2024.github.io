@@ -225,6 +225,11 @@ syllabus:
       - title: Regret bound
         kind: file-pdf-o
         path: /slides/rl/regret_bound.pdf
+  - title: PAC
+    slides: 
+      - title: Introduction
+        kind: file-pdf-o
+        path: /slides/pac/PAC introduction.pdf
 
   # - title: Week 10
     # slides:
