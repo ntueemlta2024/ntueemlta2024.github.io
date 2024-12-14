@@ -414,9 +414,9 @@ homeworks:
       - title: programming Report Template
         kind: file-pdf-o 
         url: https://docs.google.com/document/d/1d5dH2-zZiRlMQkzptXeIpUFQp-yBqq2K/edit?usp=sharing&ouid=114151137392970660623&rtpof=true&sd=true
-      # - title: math-solution
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw4/ml-2023fall-hw4-math-solution.pdf
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw4/ml-2024fall-hw4-math-solution-tmp.pdf
 
   - title: HW5 - RL
     links:
