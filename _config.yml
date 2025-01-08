@@ -446,35 +446,40 @@ homeworks:
       #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math-solution.pdf
 
 exams: #ok
- - title: Exam-107
-   links:
-     - title: Final-Exam-107 # slide
-       kind: file-pdf-o 
-       path: ./exams/ML_107_final_ques.pdf
+  - title: Exam-107
+    links:
+      - title: Final-Exam-107 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_107_final_ques.pdf
 
- - title: Exam-108
-   links:
-     - title: Final-Exam-108 # slide
-       kind: file-pdf-o 
-       path: ./exams/ML_108_final_ques.pdf
+  - title: Exam-108
+    links:
+      - title: Final-Exam-108 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_108_final_ques.pdf
 
- - title: Exam-109
-   links:
-     - title: Final-Exam-109 # slide
-       kind: file-pdf-o 
-       path: ./exams/ML_109_final_ques.pdf
+  - title: Exam-109
+    links:
+      - title: Final-Exam-109 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_109_final_ques.pdf
 
- - title: Exam-110
-   links:
-     - title: Final-Exam-110 # slide
-       kind: file-pdf-o 
-       path: ./exams/ML_110_final_ques.pdf
+  - title: Exam-110
+    links:
+      - title: Final-Exam-110 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_110_final_ques.pdf
 
- - title: Exam-111
-   links:
-     - title: Final-Exam-111 # slide
-       kind: file-pdf-o 
-       path: ./exams/ML_111_final_ques.pdf
+  - title: Exam-111
+    links:
+      - title: Final-Exam-111 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_111_final_ques.pdf
+  - title: Exam-112
+    links:
+      - title: Final-Exam-111 # slide
+        kind: file-pdf-o 
+        path: ./exams/ML_112_final_ques.pdf
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 networks:
