@@ -441,9 +441,9 @@ homeworks:
       - title: programming Report Template
         kind: file-pdf-o 
         url: https://docs.google.com/document/d/1JSm5zwwdQ-ZIH9mOGqHd4ZnO8LeiH1Kp/edit?usp=sharing&ouid=114151137392970660623&rtpof=true&sd=true
-      # - title: math-solution
-      #   kind: file-pdf-o 
-      #   url: https://ntueemlta2023.github.io/homeworks/hw5/ml-2023fall-hw5-math-solution.pdf
+      - title: math-solution
+        kind: file-pdf-o 
+        url: https://ntueemlta2024.github.io/homeworks/hw5/ml-2024fall-hw5-math-solution.pdf
 
 exams: #ok
   - title: Exam-107
